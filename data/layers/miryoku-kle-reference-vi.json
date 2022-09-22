@@ -50,23 +50,23 @@
         2
       ]
     },
-    "J\nM\nPaste\nPaste",
+    "J\nM\nRedo\nRedo",
     {
       "y": -0.12
     },
-    "L\nH\nCopy\nCopy\nBase",
+    "L\nH\nPaste\nPaste\nBase",
     {
       "y": -0.13
     },
-    "U\nS\nCut\nCut\nExtra",
+    "U\nS\nCopy\nCopy\nExtra",
     {
       "y": 0.13
     },
-    "Y\nV\nUndo\nUndo\nTap",
+    "Y\nV\nCut\nCut\nTap",
     {
       "y": 0.37
     },
-    "'\nR\nRedo\nRedo\nBoot"
+    "'\nR\nUndo\nUndo\nBoot"
   ],
   [
     {
