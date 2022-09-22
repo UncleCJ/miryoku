@@ -15,8 +15,8 @@
   ],
   [
     {
-      "c": "#888888",
-      "t": "\n#FF0000\n#00FF00\n#0000FF\n#FFFFFF",
+      "c": "#FAF9FA",
+      "t": "\n#F868F9\n#FE0000\n#9700FE\n#111111",
       "f": 3
     },
     "Q\nF12\n{\n[\nBoot",
@@ -42,7 +42,7 @@
     "B\nPrtScn <i>SysRq</i>\n}\n]",
     {
       "x": 2,
-      "t": "\n#FF00FF\n#FFFF00\n#00FFFF\n#FFFFFF",
+      "t": "\n#5AAC09\n#027D55\n#1F67FE\n#111111",
       "fa": [
         0,
         0,
@@ -70,7 +70,7 @@
   ],
   [
     {
-      "t": "\n#FF0000\n#00FF00\n#0000FF",
+      "t": "\n#F868F9\n#FE0000\n#9700FE\n#858485",
       "fa": [
         0,
         0,
@@ -102,7 +102,7 @@
     "G\nScroll Lock\n+\n=",
     {
       "x": 2,
-      "t": "\n#FF00FF\n#FFFF00\n#00FFFF",
+      "t": "\n#5AAC09\n#027D55\n#1F67FE\n#858485",
       "fa": [
         0,
         0,
@@ -137,15 +137,16 @@
   ],
   [
     {
-      "t": "\n#FF0000\n#00FF00\n#0000FF\n#C0C0C0"
+      "t": "\n#F868F9\n#FE0000\n#9700FE\n#C0C0C0"
     },
     "Z\nF10\n~\n`\nButton",
     {
       "y": -0.37,
-      "t": "\n#FF0000\n#00FF00\n#0000FF\n#FFFFFF"
+      "t": "\n#F868F9\n#FE0000\n#9700FE\n#858485"
     },
-    "X\nF1\n!\n1",
+    "X\nF1\n!\n1\nAltGr",
     {
+      "t": "\n#F868F9\n#FE0000\n#9700FE\n#111111",
       "y": -0.13
     },
     "C\nF2\n@\n2\nOpp",
@@ -163,7 +164,7 @@
     "V\nPause Break\n|\n\\",
     {
       "x": 2,
-      "t": "\n#FF00FF\n#FFFF00\n#00FFFF\n#FFFFFF",
+      "t": "\n#5AAC09\n#027D55\n#1F67FE\n#111111",
       "fa": [
         0,
         0,
@@ -181,12 +182,13 @@
     },
     ",\n1\n⇩\nPage Down\nOpp",
     {
+      "t": "\n#5AAC09\n#027D55\n#1F67FE\n#858485",
       "y": 0.13
     },
-    ".\n2\n⇧\nPage Up",
+    ".\n2\n⇧\nPage Up\nAltGr",
     {
       "y": 0.37,
-      "t": "\n#FF00FF\n#FFFF00\n#00FFFF\n#C0C0C0"
+      "t": "\n#5AAC09\n#027D55\n#1F67FE\n#C0C0C0"
     },
     "/\n3\n⇨\nEnd\nButton"
   ],
@@ -194,7 +196,8 @@
     {
       "y": -0.34,
       "x": 2.5,
-      "t": "\n#FF0000\n#00FF00\n#0000FF\n#FF00FF",
+      "c": "#EEFECA",
+      "t": "\n#F868F9\n#FE0000\n#9700FE\n#5AAC09",
       "fa": [
         0,
         0,
@@ -211,7 +214,8 @@
       "ry": 7.75,
       "y": -4.09,
       "x": -0.5,
-      "t": "\n#FF0000\n#00FF00\n#0000FF\n#00FFFF",
+      "c": "#E5EFFF",
+      "t": "\n#F868F9\n#FE0000\n#9700FE\n#1F67FE",
       "n": true
     },
     "Spc\nSpc\n)\n0\nNav"
@@ -221,17 +225,19 @@
       "r": 36,
       "y": -1,
       "x": -0.5,
-      "t": "\n#FF0000\n#00FF00\n#0000FF\n#FFFF00"
+      "c": "#E3FBE7",
+      "t": "\n#F868F9\n#FE0000\n#9700FE\n#027D55"
     },
-    "⭾\n⭾\n_\n-\nMouse"
+    "↹\n↹\n_\n-\nMouse"
   ],
-  [
+  [    
     {
       "r": -36,
       "rx": 9,
       "y": -4.09,
       "x": -0.5,
-      "t": "\n#FF00FF\n#FFFF00\n#00FFFF\n#00FF00"
+      "c": "#FEDFDF",
+      "t": "\n#5AAC09\n#027D55\n#1F67FE\n#FE0000"
     },
     "↵\n◼\nR\n↵\nSym"
   ],
@@ -240,7 +246,8 @@
       "r": -18,
       "y": -1,
       "x": -0.5,
-      "t": "\n#FF00FF\n#FFFF00\n#00FFFF\n#0000FF",
+      "c": "#EBE1F9",
+      "t": "\n#5AAC09\n#027D55\n#1F67FE\n#9700FE",
       "n": true
     },
     "⌫\n⏯\nL\n⌫\nNum"
@@ -252,7 +259,8 @@
       "ry": 0,
       "x": 8.5,
       "y": 3.66,
-      "t": "\n#FF00FF\n#FFFF00\n#00FFFF\n#FF0000"
+      "c": "#FFE5FF",
+      "t": "\n#5AAC09\n#027D55\n#1F67FE\n#F868F9"
     },
     "⌦\n🔇\nM\n⌦\nFun"
   ],
